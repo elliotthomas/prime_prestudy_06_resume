@@ -1,0 +1,81 @@
+html * {
+  font-family:Garamond, sans-serif;
+}
+
+p {
+  color:black;
+}
+
+body{
+  background-color:#cccccc;
+}
+
+h3{
+  text-decoration:underline;
+
+}
+
+h4 {
+  line-height:0.5px;
+  background-color:#7CFC00;
+  text-decoration:underline;
+}
+
+h5{
+  font-style:italic;
+  font-weight:normal;
+  line-height: 0.5px;
+}
+
+
+li{
+  margin-right:200px;
+}
+
+img {
+  border-radius:5px;
+}
+
+#header{
+  line-height:0.5px;
+}
+
+#addy{
+  text-align:center;
+  font-size:12px;
+  font-style:Italic;
+  padding-top:-0.5px;
+}
+
+#name {
+  text-align:center;
+  font-size:32px;
+  font-family:lato, sans-serif;
+  padding-top:-0.5px;
+  text-decoration:underline;
+  text-shadow: 2px 2px 5px;
+  font-weight:bolder;
+
+}
+
+#profile {
+  border-top-style:solid;
+  padding-top:10px;
+  border-width:1px;
+}
+
+.container {
+  display:inline-block;
+}
+
+#ca{
+  width: 1100px;
+}
+
+#pa{
+  margin-left:1050px;
+}
+
+#edu{
+  font-style:italic;
+}
